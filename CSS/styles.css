@@ -4,5 +4,5 @@ html, body {
 }
 
 header {
-    background-image: ("images/Front-space.jpg");
+    background-image: url("images/Front-space.jpg");
 }

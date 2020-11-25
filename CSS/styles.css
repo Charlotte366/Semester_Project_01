@@ -3,6 +3,10 @@ html, body {
     padding: 0;
 }
 
+header, main, footer {
+    background-color: #02735E;
+}
+
 nav li {
     display: inline-block;
 }

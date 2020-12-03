@@ -41,5 +41,10 @@ img {
     object-fit: cover;
   }
 
+  .img-icons img {
+      width: 100px;
+      height: 100px;
+  }
+
 
 

@@ -25,8 +25,8 @@ img {
 
 
 .img-front img {
-    width: 400px;
-    height: 400px;
+    width: 600px;
+    height: 200px;
     object-fit: cover;
   }
 

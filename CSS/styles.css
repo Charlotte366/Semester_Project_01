@@ -47,8 +47,7 @@ img {
   }
 
   .img-logobottom img {
-      width: 100px;
-      height: 100px;
+      max-width: 300px;
   }
 
 

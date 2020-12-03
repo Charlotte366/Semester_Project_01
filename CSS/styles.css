@@ -50,5 +50,10 @@ img {
       max-width: 300px;
   }
 
+  label::after {
+    content: "";
+    display: block;
+  }
+
 
 

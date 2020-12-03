@@ -23,6 +23,12 @@ img {
     width: 100%;
 }
 
+
+.img-front img [
+    width: 600px;
+    height: 300px;
+]
+
 .img-front1 img {
     width: 400px;
     height: 400px;

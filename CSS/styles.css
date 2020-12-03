@@ -24,10 +24,11 @@ img {
 }
 
 
-.img-front img [
-    width: 600px;
-    height: 300px;
-]
+.img-front img {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+  }
 
 .img-front1 img {
     width: 400px;

@@ -30,10 +30,6 @@ header {
     align-items: center;
 }
 
-header {
-    background-color: black;
-}
-
 main, footer {
     background-color: #02735E;
 }
@@ -51,7 +47,7 @@ nav ul {
 }
 
 .current {
-    color: #f23d7f;
+    color: #8c0335;
 }
 
 img {

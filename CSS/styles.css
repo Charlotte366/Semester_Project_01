@@ -30,6 +30,10 @@ header {
     align-items: center;
 }
 
+header {
+    background-color: black;
+}
+
 main, footer {
     background-color: #02735E;
 }

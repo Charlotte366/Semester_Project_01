@@ -8,6 +8,10 @@ html, body {
     
 }
 
+header {
+    display: flex;
+}
+
 main, footer {
     background-color: #02735E;
 }

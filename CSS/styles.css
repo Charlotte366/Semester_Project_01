@@ -30,7 +30,10 @@ header {
     align-items: center;
 }
 
-main, footer {
+header, footer {
+    background-color:grey ;
+}
+main {
     background-color: #02735E;
 }
 
@@ -101,7 +104,7 @@ img {
   }
 
   @media (min-width: 600px) and (max-width: 1200px){
-      
+
   }
 
 

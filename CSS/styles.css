@@ -3,6 +3,10 @@ html, body {
     padding: 0;
 }
 
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .logo-top {
     max-width: 300px;
     

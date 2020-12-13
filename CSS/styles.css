@@ -8,6 +8,11 @@ html, body {
     
 }
 
+/* Links */
+a {
+    text-decoration: none;
+}
+
 header {
     display: flex;
     align-items: center;

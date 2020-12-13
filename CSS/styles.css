@@ -60,11 +60,9 @@ img {
 
 .img-header img {
     height: 500px;
-    width: 100%;
 }
 
 .img-front img {
-    width: 1200px;
     height: 200px;
     object-fit: cover;
   }

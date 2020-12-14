@@ -3,6 +3,10 @@ html, body {
     padding: 0;
 }
 
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -62,13 +66,6 @@ img {
     height: 500px;
 }
 
-.float{
-    float: right;
-  }
-  
-  .clear{
-    clear: right;
-  }
 
 .img-front img {
     height: 200px;

@@ -103,8 +103,9 @@ img {
   }
 
   @media (min-width: 500px) and (max-width: 1200px){
-
-  }
+.container{
+    flex-direction: row;
+} }
 
 
 

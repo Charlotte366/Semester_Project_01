@@ -34,7 +34,7 @@ header {
     align-items: center;
 }
 
-header, footer {
+header {
     background-color: white ;
 }
 main {

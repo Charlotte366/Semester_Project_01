@@ -32,7 +32,6 @@ a {
 header {
     display: flex;
     align-items: center;
-    justify-content: center;
 }
 
 .container {
@@ -61,6 +60,7 @@ nav {
 
 nav li {
     display: inline-block;
+    justify-content: center;
 }
 
 nav ul {

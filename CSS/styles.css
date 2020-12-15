@@ -43,6 +43,10 @@ header {
 
 }
 
+h2 {
+    float: right;
+}
+
 .item {
     margin: 30px;
 }

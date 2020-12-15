@@ -21,6 +21,7 @@ nav {
 
 .logo-top {
     max-width: 300px;
+    float: left;
     
 }
 
@@ -109,9 +110,6 @@ img {
       max-width: 300px;
   }
 
-  .floated_right {
-      float: left;
-  }
 
   label::after {
     content: "";

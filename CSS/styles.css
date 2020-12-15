@@ -34,12 +34,13 @@ header {
     align-items: center;
 }
 
-footer {
+.container {
     display: flex;
-    flex-direction: row;
-    align-items: center;
-    flex-wrap: nowrap;
 
+}
+
+.item {
+    margin: 5px;
 }
 
 

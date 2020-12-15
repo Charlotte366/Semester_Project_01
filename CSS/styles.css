@@ -52,6 +52,9 @@ header, footer {
     background-color: white ;
 }
 main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     background-color: #02735E;
 }
 

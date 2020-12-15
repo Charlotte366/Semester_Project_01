@@ -107,6 +107,7 @@ img {
 
   .img-logobottom img {
       max-width: 300px;
+      float: left;
   }
 
   label::after {

@@ -21,7 +21,6 @@ nav {
 
 .logo-top {
     max-width: 300px;
-    float: left;
     
 }
 
@@ -96,6 +95,8 @@ img {
   }
 
 .img-front1 img {
+    display: flex;
+    align-items: center;
     width: 400px;
     height: 400px;
     object-fit: cover;

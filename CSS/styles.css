@@ -101,6 +101,10 @@ nav ul {
     float: left;
 }
 
+.floated_right {
+    float: right;
+}
+
 img {
     width: 100%;
 

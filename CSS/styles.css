@@ -86,11 +86,11 @@ nav {
 
 nav li {
     display: inline-block;
+    margin: 20px;
 }
 
 nav ul {
     padding: 0px;
-    
 }
 
 .current {

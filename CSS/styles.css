@@ -89,7 +89,8 @@ nav li {
 }
 
 nav ul {
-    padding: 100px;
+    padding: 0px;
+    
 }
 
 .current {

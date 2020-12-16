@@ -45,7 +45,7 @@ header {
 .container_opening {
     display: flex;
     flex-direction: column;
-    justify-items: stretch;
+    justify-content: center;
 }
 
 .container {

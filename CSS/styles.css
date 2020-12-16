@@ -35,6 +35,13 @@ header {
     justify-content: center;
 }
 
+.container_follow {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .container {
     display: flex;
     align-items: center;

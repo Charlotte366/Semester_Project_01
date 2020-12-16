@@ -45,7 +45,7 @@ header {
 .container_opening {
     display: flex;
     flex-direction: column;
-    
+    justify-content: first baseline;
 }
 
 .container {

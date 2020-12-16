@@ -72,6 +72,11 @@ header {
     margin: 30px;
 }
 
+.containerlevel {
+    display: flex;
+    align-items: center;
+}
+
 
 header, footer {
     background-color: white ;
@@ -101,9 +106,6 @@ nav ul {
     float: left;
 }
 
-.floated_right {
-    float: right;
-}
 
 img {
     width: 100%;

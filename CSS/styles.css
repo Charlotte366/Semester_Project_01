@@ -129,6 +129,12 @@ img {
       max-width: 300px;
   }
 
+  .img-front4 img {
+      width: 500px;
+      height: 500px;
+      object-fit: cover;
+  }
+
 
   label::after {
     content: "";

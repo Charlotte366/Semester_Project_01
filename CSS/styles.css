@@ -139,6 +139,11 @@ img {
       height: 400px;
   }
 
+  .math {
+      width: 400px;
+      height: 300px;
+  }
+
   @media (min-width: 500px) and (max-width: 1200px){
 
 } 

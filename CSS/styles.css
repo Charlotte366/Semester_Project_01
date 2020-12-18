@@ -194,6 +194,7 @@ img {
   }
 
   .img-visit img {
+      display: inline;
       width: 350px;
       height: 400px;
 

@@ -191,10 +191,10 @@ img {
   }
 
   .math {
-      max-width: 100%;
       width: 800px;
-      height: 400px;
+      height: 300px;
       float: right;
+      max-width: 100%;
   }
 
   @media (min-width: 500px) and (max-width: 1200px){

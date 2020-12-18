@@ -139,7 +139,6 @@ img {
     width: 800px;
     height: 200px;
     display: inline-flex;
-    align-items: center;
     flex-wrap: wrap;
     justify-content: center;
   }

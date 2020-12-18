@@ -138,8 +138,10 @@ img {
     max-width: 100%;
     width: 800px;
     height: 200px;
-    object-fit: cover;
-    justify-content: space-around;
+    display: inline-flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
   }
 
 .img-front1 img {

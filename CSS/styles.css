@@ -140,7 +140,7 @@ img {
   }
 
 .img-front1 img {
-    display: flex;
+    display: inline-block;
     justify-content: space-around;
     max-width: 100%;
     width: 300px;

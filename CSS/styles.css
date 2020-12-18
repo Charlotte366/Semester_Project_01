@@ -1,5 +1,5 @@
 html, body {
-    margin: 0;
+    margin: 10px;
     padding: 0;
 }
 
@@ -137,7 +137,6 @@ img {
 .img-front img {
     height: 200px;
     max-width: 100%;
-    margin: 10px;
   }
 
 .img-front1 img {

@@ -90,13 +90,15 @@ header {
 
 .containerv {
     display: flex;
+    flex-wrap: wrap;
+    
     align-items: center;
 
 }
 
 .itemv {
     margin: 10px;
-    
+
 }
 
 

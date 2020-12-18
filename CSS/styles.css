@@ -92,7 +92,7 @@ header {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: left;
+    margin: 10px;
 }
 
 

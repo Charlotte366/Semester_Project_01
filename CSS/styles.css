@@ -69,6 +69,7 @@ header {
     align-items: center;
     justify-content: center;
     margin: 30px;
+    flex-direction: column-reverse;
 }
 
 .container {

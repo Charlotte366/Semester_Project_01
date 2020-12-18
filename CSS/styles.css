@@ -39,18 +39,6 @@ header {
 
 }
 
-.container_visit {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-items: center;
-}
-
-.item_visit {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-}
 
 .container_opening {
     display: flex;

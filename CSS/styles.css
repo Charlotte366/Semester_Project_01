@@ -96,6 +96,7 @@ header {
 
 .itemv {
     margin: 10px;
+    flex-direction: row;
 
 }
 

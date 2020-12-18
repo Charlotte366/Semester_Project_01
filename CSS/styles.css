@@ -96,19 +96,10 @@ header {
 }
 
 
-
-.containerv {
-    display: inline-block;
-    flex-direction: row;
-}
-
 .itemv {
     margin: 10px;
     
 }
-
-
-
 
 .item8 {
     display: flex;

@@ -191,6 +191,7 @@ img {
   }
 
   .math {
+      max-width: 100%;
       width: 800px;
       height: 300px;
       float: right;

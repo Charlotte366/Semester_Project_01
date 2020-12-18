@@ -159,7 +159,7 @@ img {
     width: 400px;
     height: 400px;
     object-fit: cover;
-    justify-content: space-around;
+    justify-content: center;
   }
 
   .img-icons img {

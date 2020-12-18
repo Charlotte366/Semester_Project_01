@@ -88,19 +88,13 @@ header {
 
 }
 
-.containerv {
+containerv {
     display: inline-block;
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: flex-start;
 }
 
-
-.itemv {
-    margin: 10px;
-    display: block;
-    
-}
 
 .item8 {
     display: flex;

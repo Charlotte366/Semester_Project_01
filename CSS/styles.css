@@ -138,9 +138,6 @@ img {
     max-width: 100%;
     width: 800px;
     height: 200px;
-    display: inline-flex;
-    flex-wrap: wrap;
-    justify-content: center;
   }
 
 .img-front1 img {

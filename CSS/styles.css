@@ -39,6 +39,11 @@ header {
 
 }
 
+.container_visit {
+    display: flex;
+    flex-direction: row;
+}
+
 .container_opening {
     display: flex;
     flex-direction: column;

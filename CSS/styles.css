@@ -89,7 +89,8 @@ header {
 }
 
 .containerv {
-    display: flex;
+    display: inline-flex;
+    
 
 }
 

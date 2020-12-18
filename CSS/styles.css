@@ -142,6 +142,7 @@ img {
 .img-front1 img {
     display: inline-block;
     margin: 55px;
+    margin-bottom: 10px;
     justify-content: center;
     max-width: 100%;
     width: 300px;

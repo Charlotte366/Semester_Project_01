@@ -135,6 +135,8 @@ img {
 
 
 .img-front img {
+    max-width: 100%;
+    width: 800px;
     height: 200px;
     object-fit: cover;
   }

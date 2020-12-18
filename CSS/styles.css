@@ -89,8 +89,8 @@ header {
 }
 
 .containerv {
-    display: flex;
-    flex-wrap: wrap;
+    display: inline-flex;
+   
     
     align-items: center;
 

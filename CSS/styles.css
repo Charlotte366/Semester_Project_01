@@ -200,7 +200,7 @@ img {
   }
 
   .container9 {
-    display: flex;
+    display: inline-block;
     flex-direction: row;
     flex-wrap: wrap;
 

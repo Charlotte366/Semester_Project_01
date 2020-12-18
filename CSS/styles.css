@@ -91,10 +91,11 @@ header {
 .containerv {
     display: flex;
     align-items: center;
-    flex-wrap: wrap;
-    justify-content: center;
-    display: inline;
 
+}
+
+.itemv {
+    display: inline-flex;
 }
 
 

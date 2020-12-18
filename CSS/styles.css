@@ -44,6 +44,12 @@ header {
     flex-direction: row;
 }
 
+.item_visit {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
 .container_opening {
     display: flex;
     flex-direction: column;

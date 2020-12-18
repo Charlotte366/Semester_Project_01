@@ -161,6 +161,7 @@ img {
       width: 400px;
       height: 300px;
       object-fit: cover;
+      max-width: 100%;
   }
 
    a {  
@@ -180,6 +181,8 @@ img {
       height: 300px;
       max-width: 100%;
   }
+
+
 
   .img-school img {
       width: 300px;

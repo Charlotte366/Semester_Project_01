@@ -139,7 +139,7 @@ img {
     width: 800px;
     height: 200px;
     object-fit: cover;
-    justify-content: center;
+    justify-content: space-around;
   }
 
 .img-front1 img {

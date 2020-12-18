@@ -202,6 +202,7 @@ img {
 
   .container9 {
     display: flex;
+    flex-wrap: wrap;
 
 
   } 

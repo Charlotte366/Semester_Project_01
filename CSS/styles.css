@@ -1,6 +1,6 @@
 html, body {
     margin: 0;
-    padding: 20;
+    padding: 0;
 }
 
 p,h1,h2,h3,h4,h5 {
@@ -28,6 +28,12 @@ header {
     align-items: center;
     justify-content: center;
 }
+
+main {
+    display: flex; 
+    align-content: center;
+}
+
 
 .container_follow {
     display: inline-flex;

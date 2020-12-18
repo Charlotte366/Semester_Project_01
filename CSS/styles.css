@@ -137,6 +137,7 @@ img {
 .img-front img {
     height: 200px;
     max-width: 100%;
+    margin: 20px;
   }
 
 .img-front1 img {

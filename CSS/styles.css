@@ -95,15 +95,19 @@ header {
     justify-content: flex-start;
 }
 
-.itemv {
-    margin: 10px;
-    
-}
+
 
 .containerv {
     display: inline-block;
     flex-direction: row;
 }
+
+.itemv {
+    margin: 10px;
+    
+}
+
+
 
 
 .item8 {

@@ -241,10 +241,11 @@ img {
   @media (max-width: 480px) {
       .p {
           font-size: 18px;
-          color: orangered;
       }
+
       main {
           background-color: orangered;
+
       }
 
       .img-front1 {
@@ -255,10 +256,10 @@ img {
           align-items: center;
       }
 
+      a {
+          color: orangered;
+      }
 
-
-
-     
 
 
 

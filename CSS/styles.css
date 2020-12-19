@@ -134,7 +134,9 @@ header {
     flex-direction: row;
 }
 
-.img-visit
+.img-visit {
+    flex-direction: row;
+}
 
 
 

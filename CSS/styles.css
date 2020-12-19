@@ -133,6 +133,7 @@ header {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    align-content: space-around;
 }
 
 .img-visit {

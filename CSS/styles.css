@@ -87,6 +87,15 @@ header {
 
 }
 
+.containercos {
+    display: flex;
+   
+}
+
+.itemcos {
+    margin: 5px;
+}
+
 
 .item8 {
     display: flex;

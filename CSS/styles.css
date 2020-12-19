@@ -41,7 +41,7 @@ header {
 }
 
 .container_welcome {
-    background-color: red;
+    background-color: #02735e;
 }
 
 
@@ -108,9 +108,6 @@ header {
 
 header, footer {
     background-color: white ;
-}
-main {
-    background-color: #02735E;
 }
 
 nav {

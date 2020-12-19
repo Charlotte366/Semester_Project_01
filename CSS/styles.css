@@ -246,13 +246,20 @@ img {
           background-color: orangered;
       }
 
-      .img-front1, .float {
+      .img-front1 {
           display: flex;
           flex-direction: column;
           justify-content: center;
           margin: 0px;
           align-items: center;
       }
+
+      .float {
+          display: flex;
+          justify-content: center;
+          justify-items: center;
+      }
+
      
 
 

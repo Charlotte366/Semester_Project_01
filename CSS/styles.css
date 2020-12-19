@@ -180,7 +180,7 @@ img {
     height: 200px;
     max-width: 100%;
     margin-left: 40px;
-    margin-right: 40px;
+    margin-right: -40px;
   }
 
   .float {

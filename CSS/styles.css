@@ -205,7 +205,6 @@ img {
   .rocket {
     width: 800px;
     height: 300px;
-    float: right;
     max-width: 100%;
 
   }
@@ -214,7 +213,6 @@ img {
   .math {
       width: 800px;
       height: 300px;
-      float: right;
       max-width: 100%;
   }
 

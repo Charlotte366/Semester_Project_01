@@ -38,7 +38,7 @@ header {
 
 }
 
-.container_welcome {
+.container_welcome, .containerlevel {
     background-color: #02735e;
 }
 

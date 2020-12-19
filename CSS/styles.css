@@ -37,6 +37,7 @@ header {
     flex-wrap: wrap;
     justify-content: center;
     flex-direction: row;
+    background-color: #02735e;
 
 }
 

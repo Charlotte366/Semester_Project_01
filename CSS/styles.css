@@ -59,6 +59,11 @@ header {
     background-color: #02735e;
 }
 
+.itemfun {
+    width: 400px;
+    height: 400px;
+}
+
 .container_learning {
     display: flex;
     flex-direction: column;

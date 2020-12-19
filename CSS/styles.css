@@ -248,7 +248,7 @@ img {
 
       }
 
-      .img-front1, .container_welcome, .container_follow {
+      .img-front1, .container_welcome {
           display: flex;
           flex-direction: column;
           justify-content: center;

@@ -129,6 +129,15 @@ header {
     margin: 20px;
 }
 
+.container9 {
+    display: flex;
+    flex-direction: row;
+}
+
+.img-visit
+
+
+
 
 header, footer {
     background-color: white ;

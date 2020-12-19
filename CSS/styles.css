@@ -240,7 +240,7 @@ img {
 
   @media (max-width: 480px) {
       .p {
-          font-size: 18px;
+          font-size: 16px;
       }
 
       main {
@@ -248,7 +248,7 @@ img {
 
       }
 
-      .img-front1, .container_welcome, .p {
+      .img-front1, .container_welcome {
           display: flex;
           flex-direction: column;
           justify-content: center;

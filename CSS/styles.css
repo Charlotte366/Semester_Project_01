@@ -261,7 +261,7 @@ img {
         
       }
 
-      .float {
+      .container_welcome {
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -269,6 +269,7 @@ img {
         align-items: center;
 
       }
+
 
   
 

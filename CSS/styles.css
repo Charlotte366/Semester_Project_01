@@ -40,6 +40,10 @@ header {
 
 }
 
+.container_welcome {
+    background-color: red;
+}
+
 
 .container_opening {
     display: flex;

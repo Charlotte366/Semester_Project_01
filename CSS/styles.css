@@ -42,6 +42,17 @@ header {
     background-color: #02735e;
 }
 
+.img-front1 img {
+    display: inline-block;
+    margin: 55px;
+    margin-bottom: 10px;
+    justify-content: center;
+    max-width: 100%;
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+  }
+
 
 .container_opening {
     display: flex;
@@ -176,16 +187,7 @@ img {
     max-width: 100%;
   }
 
-.img-front1 img {
-    display: inline-block;
-    margin: 55px;
-    margin-bottom: 10px;
-    justify-content: center;
-    max-width: 100%;
-    width: 300px;
-    height: 400px;
-    object-fit: cover;
-  }
+
 
   .img-icons img {
       width: 50px;

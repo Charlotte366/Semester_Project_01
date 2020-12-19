@@ -94,7 +94,6 @@ header {
 
 .containerlevel {
     display: flex;
-    align-items: center;
     float: left;
 }
 

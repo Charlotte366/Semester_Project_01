@@ -38,7 +38,9 @@ header {
 
 }
 
-.container_welcome, .containerlevel, .container_experience, .container_text, .container_ant {
+.container_welcome, .containerlevel, .container_experience, .container_text, .container_ant, 
+.container_learning
+ {
     background-color: #02735e;
 }
 

@@ -37,10 +37,6 @@ header {
     
 }
 
-.container_text {
-    display: flex;
-    flex-direction: row-reverse;
-}
 
 .container_welcome, .containerlevel, .container_experience, .container_text, .container_ant, 
 .container_learning, .container_learning2, .containercos, .container9, .container_about 

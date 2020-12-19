@@ -81,12 +81,6 @@ header {
     margin: 30px;
 }
 
-.containerlevel {
-    display: flex;
-    align-items: center;
-
-}
-
 .containercos {
     display: flex;
     flex-direction: column;

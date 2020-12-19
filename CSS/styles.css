@@ -251,6 +251,7 @@ img {
           flex-direction: column;
           justify-content: center;
           margin: 0px;
+          align-items: center;
       }
      
 

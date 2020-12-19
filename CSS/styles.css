@@ -33,8 +33,6 @@ header {
 
 .container_follow {
     display: inline-flex;
-    align-items: center;
-    justify-content: center;
     flex-direction: row;
     background-color: #02735e;
 

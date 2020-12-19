@@ -94,7 +94,7 @@ header {
 
 .containerlevel {
     display: flex;
-    float: left;
+    flex-direction: column;
 }
 
 

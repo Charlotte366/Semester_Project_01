@@ -248,7 +248,7 @@ img {
 
       }
 
-      .img-front1 {
+      .img-front1, .container_welcome {
           display: flex;
           flex-direction: column;
           justify-content: center;
@@ -261,14 +261,6 @@ img {
         
       }
 
-      .container_welcome {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        margin: 0px;
-        align-items: center;
-
-      }
 
 
   

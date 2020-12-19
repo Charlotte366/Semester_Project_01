@@ -55,7 +55,7 @@ header {
 }
 
 .comtaimer_experiencefun {
-    display: flex;
+    display: inline-flex;
     background-color: #02735e;
 }
 

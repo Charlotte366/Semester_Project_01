@@ -36,6 +36,11 @@ header {
     align-items: center;
 }
 
+.container_welcome {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
 
 .container_welcome, .containerlevel, .container_experience, .container_text, .container_ant, 
 .container_learning, .container_learning2, .containercos, .container9, 

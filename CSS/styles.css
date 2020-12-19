@@ -68,14 +68,16 @@ header {
 }
 
 .item_explore {
+    margin: 10px;
+   
+}
+
+.img-fun { 
     width: 300px;
     height: 600px;
     max-width: 100%;
-   
-
 
 }
-
 .item4 {
     margin: 20px;
 

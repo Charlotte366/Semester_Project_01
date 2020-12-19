@@ -63,6 +63,7 @@ header {
 
 .container_explore {
     display: flex;
+    flex-direction: row;
     background-color: #02735e;
 }
 

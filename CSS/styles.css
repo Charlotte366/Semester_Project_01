@@ -136,6 +136,7 @@ header {
 
 .img-visit {
     flex-direction: row;
+    flex-wrap: wrap;
 }
 
 

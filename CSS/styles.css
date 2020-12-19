@@ -47,6 +47,7 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: #02735e;
 }
 
 .container_learning {

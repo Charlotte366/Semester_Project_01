@@ -35,7 +35,11 @@ header {
     background-color: #02735e;
     align-items: center;
     
+}
 
+.container_text {
+    display: flex;
+    flex-direction: row-reverse;
 }
 
 .container_welcome, .containerlevel, .container_experience, .container_text, .container_ant, 

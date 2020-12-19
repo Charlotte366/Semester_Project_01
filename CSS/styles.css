@@ -179,8 +179,8 @@ img {
 .img-front img {
     height: 200px;
     max-width: 100%;
-    margin-left: 40px;
-    justify-items: center;
+    margin-left: -40px;
+    margin-right: -40ox;
   }
 
   .float {

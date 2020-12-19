@@ -246,6 +246,13 @@ img {
           background-color: orangered;
       }
 
+      .img-front1 {
+          display: flex;
+          flex-direction: row;
+      }
+     
+
+
 
   }
 

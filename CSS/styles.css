@@ -188,14 +188,6 @@ img {
     display: block;
   }
 
-  .img-pinkblue img {
-      width: 600px;
-      height: 300px;
-      float: right;
-      max-width: 100%;
-  }
-
-
 
   .img-school img {
       width: 300px;
@@ -206,6 +198,14 @@ img {
       display:inline-block;
       width: 350px;
       height: 400px;
+
+  }
+
+  .rocket {
+    width: 600px;
+    height: 300px;
+    float: right;
+    max-width: 100%;
 
   }
  

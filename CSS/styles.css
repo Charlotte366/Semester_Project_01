@@ -38,7 +38,7 @@ header {
 
 }
 
-.container_welcome, .containerlevel {
+.container_welcome, .containerlevel, .container_experience {
     background-color: #02735e;
 }
 
@@ -61,9 +61,6 @@ header {
     background-color: #02735e;
 }
 
-.container_experience {
-    background-color: #02735e;
-}
 
 .container_learning {
     display: flex;

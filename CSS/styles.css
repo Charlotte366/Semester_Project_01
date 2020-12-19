@@ -240,7 +240,8 @@ img {
 
   @media (max-width: 480px) {
       .p {
-          font-size: 16px;
+          font-size: 18px;
+          color: orangered;
       }
       main {
           background-color: orangered;
@@ -253,6 +254,8 @@ img {
           margin: 0px;
           align-items: center;
       }
+
+
 
 
      

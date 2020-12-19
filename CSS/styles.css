@@ -246,7 +246,7 @@ img {
           background-color: orangered;
       }
 
-      .img-front1 {
+      .img-front1, .float {
           display: flex;
           flex-direction: column;
           justify-content: center;

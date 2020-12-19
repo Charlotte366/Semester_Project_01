@@ -144,7 +144,6 @@ img {
 .img-front img {
     height: 200px;
     margin: 55px;
-    justify-content: center;
     max-width: 100%;
   }
 

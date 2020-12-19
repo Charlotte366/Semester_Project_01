@@ -239,7 +239,7 @@ img {
   }
 
   @media (max-width: 480px) {
-      .text {
+      .p {
           font-size: 22px;
       }
   }

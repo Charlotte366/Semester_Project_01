@@ -50,6 +50,10 @@ header {
     background-color: #02735e;
 }
 
+.container_experience {
+    background-color: #02735e;
+}
+
 .container_learning {
     display: flex;
     flex-direction: column;

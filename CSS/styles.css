@@ -241,6 +241,7 @@ img {
   @media (max-width: 480px) {
       .p {
           font-size: 30px;
+          text-align: center;
       }
   }
 

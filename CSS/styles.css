@@ -89,11 +89,13 @@ header {
 
 .containercos {
     display: flex;
+    flex-direction: column;
    
 }
 
 .itemcos {
     margin: 5px;
+    flex: 1;
 }
 
 

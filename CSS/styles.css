@@ -55,6 +55,7 @@ header {
 }
 
 .comtaimer_experiencefun {
+    display: inline;
     background-color: #02735e;
 }
 

@@ -258,10 +258,9 @@ img {
 
       .container_experience {
           font-size: 16px;
-          justify-content: center;
-          justify-items: center;
-          align-items: center;
-          align-content: space-around;
+          margin: 15px;
+          border-radius: unset;
+        
       }
 
   

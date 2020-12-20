@@ -172,8 +172,12 @@ header {
 }
 
 
-header, footer {
+header {
     background-color: white ;
+}
+
+footer {
+    background-color: #f23d7f;
 }
 
 nav {

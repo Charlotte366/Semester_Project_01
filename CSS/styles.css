@@ -43,7 +43,7 @@ header {
 
 .container_welcome, .containerlevel, .container_experience, .container_text, .container_ant, 
 .container_learning, .container_learning2, .containercos, .container9, 
-.container_about,.container_explore {
+.container_about,.container_explore, .container_red {
     background-color: #02735e;
 }
 

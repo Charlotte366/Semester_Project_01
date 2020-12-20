@@ -172,6 +172,7 @@ header {
     flex-wrap: wrap;
     justify-content: center;
     margin-top: 20px;
+    justify-content: space-around;
 }
 
 .img-visit {

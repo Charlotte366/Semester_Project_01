@@ -175,11 +175,6 @@ header {
     margin-top: 20px;
 }
 
-.img-visit {
-    flex-direction: row;
-    flex-wrap: wrap;
-    margin: 15px;
-}
 
 .img-visit {
     display: inline-block;

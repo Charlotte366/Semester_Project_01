@@ -175,7 +175,7 @@ header {
     margin-top: 20px;
 }
 
-.img-visit, .item_explore {
+.img-visit, .item_explore, .img-fun {
     flex-direction: row;
     flex-wrap: wrap;
     margin: 15px;

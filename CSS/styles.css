@@ -65,6 +65,7 @@ header {
 
   .float {
       width: 300px;
+      height: 200px;
       float: left;
       align-items: center;
   }

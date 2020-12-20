@@ -15,9 +15,6 @@ main {
     background-color: black;
 }
 
-.container {
-    color: black;
-}
 
 
 nav a {
@@ -125,6 +122,7 @@ header {
     align-items: center;
     flex-wrap: wrap;
     justify-content: center;
+    text: black;
 
 }
 

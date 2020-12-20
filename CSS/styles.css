@@ -167,7 +167,7 @@ header {
     margin: 20px;
 }
 
-.container9 {
+.container9, .container_explore {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;

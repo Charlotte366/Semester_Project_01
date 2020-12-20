@@ -38,6 +38,11 @@ a:hover {
 }
 
 
+.text {
+    color: black;
+}
+
+
 
 header {
     display: flex;

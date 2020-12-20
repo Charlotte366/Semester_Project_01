@@ -142,6 +142,10 @@ header {
     margin: 15px;
 }
 
+.container_text {
+    text-align: center;
+}
+
 
 
 
@@ -274,6 +278,7 @@ img {
       .container_experience {
           font-size: 16px;
           text-align: left;
+          tex
           
         
       }

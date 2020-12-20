@@ -187,8 +187,7 @@ img {
   .float {
       float: left;
       width: 300px;
-      height: 415px;
-      justify-items: center;
+      height: 400px;
       align-items: center;
   }
 

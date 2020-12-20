@@ -230,6 +230,7 @@ img {
 
   .img-logobottom img {
       max-width: 300px;
+      margin-top: 10px;
   }
 
   .img-front4 img {

@@ -19,7 +19,7 @@ main {
 
 nav a {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: black;
+    color: #02735e;
     font-size: larger;
 }
 
@@ -31,7 +31,6 @@ nav a {
 /* Links */
 a {
     text-decoration: none;
-    color: white;
 }
 
 a:hover {

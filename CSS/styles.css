@@ -184,13 +184,6 @@ img {
     max-width: 100%;
   }
 
-  .float {
-      float: left;
-      width: 300px;
-      align-items: center;
-  }
-
-
 
   .img-icons img {
       width: 50px;

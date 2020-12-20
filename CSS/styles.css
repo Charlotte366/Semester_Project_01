@@ -59,6 +59,10 @@ header {
     object-fit: cover;
   }
 
+  .container_red {
+      margin-top: 20px;
+  }
+
 
 .container_opening {
     display: flex;

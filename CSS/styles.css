@@ -24,6 +24,11 @@ a {
     text-decoration: none;
 }
 
+.shortenedText {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
 header {
     display: flex;
     align-items: center;

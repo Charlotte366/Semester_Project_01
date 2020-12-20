@@ -176,10 +176,13 @@ header {
 
 .img-visit {
     display: inline-block;
-    flex-wrap: wrap;
-    margin: 15px;
-    width: 400px;
+    margin: 55px;
+    margin-bottom: 10px;
+    justify-content: center;
+    max-width: 100%;
+    width: 300px;
     height: 400px;
+    object-fit: cover;
 }
 
 

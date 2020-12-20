@@ -15,6 +15,10 @@ main {
     background-color: black;
 }
 
+footer {
+    background-color: #f23d7f;
+}
+
 nav a {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;

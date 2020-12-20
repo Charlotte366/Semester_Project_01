@@ -15,9 +15,6 @@ main {
     background-color: black;
 }
 
-footer {
-    background-color: #f23d7f;
-}
 
 
 nav a {
@@ -130,6 +127,7 @@ header {
 
 .item {
     margin: 30px;
+    color: black;
 }
 
 .containercos {

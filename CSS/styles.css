@@ -180,14 +180,7 @@ header {
     flex-wrap: wrap;
     margin: 15px;
 }
-.img-visit {
-    display: inline-block;
-    flex-wrap: wrap;
-    width: 300px;
-    height: 300px;
-    max-width: 100;
-    
-}
+
 
 
 header {

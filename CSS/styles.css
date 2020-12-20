@@ -3,10 +3,6 @@ html, body {
     padding: 0;
 }
 
-main {
-    background-color: #f23d7f;
-}
-
 p,h1,h2,h3,h4,h5 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     max-width: 600px;

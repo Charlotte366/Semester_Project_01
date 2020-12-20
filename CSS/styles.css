@@ -130,13 +130,13 @@ header {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    justify-content: center;    
+    justify-content: center;
+    background-color: #f23d7f;  
 
 }
 
 .item {
     margin: 30px;
-    background-color: #f23d7f;
     
 }
 

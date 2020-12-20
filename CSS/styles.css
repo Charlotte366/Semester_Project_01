@@ -122,12 +122,14 @@ header {
     align-items: center;
     flex-wrap: wrap;
     justify-content: center;
-    p: black;
+    
 
 }
 
 .item {
     margin: 30px;
+    color: black;
+
     
     
 }

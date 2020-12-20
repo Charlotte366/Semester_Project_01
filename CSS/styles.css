@@ -38,6 +38,7 @@ header {
 .container_follow {
     background-color: #02735e;
     align-items: center;
+    margin-top: 10px;;
 }
 
 .container_welcome, .containerlevel, .container_experience, .container_text, .container_ant, 

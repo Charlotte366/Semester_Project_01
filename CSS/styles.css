@@ -63,6 +63,12 @@ header {
       margin-top: 20px;
   }
 
+  .float {
+      width: 200px;
+      float: left;
+      align-items: center;
+  }
+
 
 .container_opening {
     display: flex;

@@ -167,7 +167,7 @@ header {
     margin: 20px;
 }
 
-.container9, .container_explore {
+.container9 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -175,10 +175,19 @@ header {
     margin-top: 20px;
 }
 
-.img-visit, .item_explore, .img-fun {
+.img-visit {
     flex-direction: row;
     flex-wrap: wrap;
     margin: 15px;
+}
+
+.img-visit {
+    display: inline-block;
+    flex-wrap: wrap;
+    width: 300px;
+    height: 300px;
+    max-width: 100;
+    
 }
 
 
@@ -222,15 +231,7 @@ img {
     max-width: 100%;
   }
 
-  .img-visit {
-      display: inline-block;
-      flex-wrap: wrap;
-      width: 300px;
-      height: 300px;
-      max-width: 100;
-      
-  }
-
+ 
 
   .img-icons img {
       width: 50px;

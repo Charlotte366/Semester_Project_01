@@ -131,6 +131,10 @@ header {
     
 }
 
+.textblack {
+    color: black;
+}
+
 .containercos {
     display: flex;
     flex-direction: column;

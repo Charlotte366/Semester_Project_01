@@ -42,10 +42,6 @@ a:hover {
     color: black;
 }
 
-.texth3 {
-    h3: black;
-}
-
 
 
 header {
@@ -135,6 +131,8 @@ header {
     align-items: center;
     flex-wrap: wrap;
     justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
     
 
 }

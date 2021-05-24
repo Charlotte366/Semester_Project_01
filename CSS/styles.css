@@ -1,336 +1,336 @@
-html, body {
-    margin: 0;
-    padding: 0;
+html,
+body {
+  margin: 0;
+  padding: 0;
 }
 
-p,h1,h2,h3,h4,h5 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-    max-width: 600px;
-    margin: 0 auto;
-
+p,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  max-width: 600px;
+  margin: 0 auto;
 }
 
 main {
-    background-color: black;
+  background-color: #ffffff;
 }
 
-
-
 nav a {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: black;
-    font-size: larger;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: black;
+  font-size: larger;
 }
 
 .logo-top {
-    max-width: 300px;
-    
+  max-width: 300px;
 }
 
 /* Links */
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 a:hover {
-    color: blue;
+  color: blue;
 }
-
 
 .text {
-    color: black;
+  color: black;
 }
-
-
 
 header {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
-
 
 .container_follow {
-    background-color: #02735e;
-    align-items: center;
-    margin-top: 20px;
+  align-items: center;
+  margin-top: 20px;
+  height: 250px;
+  margin-bottom: 15px;
 }
 
-.container_welcome, .containerlevel, .container_experience, .container_text, .container_ant, 
-.container_learning, .container_learning2, .containercos, .container9, 
-.container_about,.container_explore, .container_red {
-    background-color: #02735e;
+.container_welcome,
+.containerlevel,
+.container_experience,
+.container_text,
+.container_ant,
+.container_learning,
+.container_learning2,
+.containercos,
+.container9,
+.container_about,
+.container_explore,
+.container_red,
+.container_opening,
+.container_follow {
+  background-color: #003333;
 }
 
+.img-front1 {
+  display: flex;
+  justify-items: center;
+  margin-left: 30px;
+
+  margin-bottom: 16px;
+  width: 300px;
+  height: 350px;
+  padding-top: 50px;
+  padding-right: 40px;
+  padding-bottom: 50px;
+}
 
 .img-front1 img {
-    display: inline-block;
-    margin: 55px;
-    margin-bottom: 10px;
-    justify-content: center;
-    max-width: 100%;
-    width: 300px;
-    height: 400px;
-    object-fit: cover;
-  }
-
-  .container_red {
-      margin-top: 20px;
-  }
-
-  .float {
-      width: 300px;
-      height: 345px;
-      float: left;
-      align-items: center;
-  }
-
-
-.container_opening {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background-color: #02735e;
+  object-fit: cover;
 }
 
+.container_red {
+  margin-top: 20px;
+  height: 900px;
+}
+
+.welcome_text {
+  padding-right: 80px;
+  text-align: center;
+}
+
+.float {
+  width: 300px;
+  height: 345px;
+  margin-left: 30px;
+  padding-top: 20px;
+}
+
+.container_opening {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 250px;
+  padding-top: 80px;
+}
 
 .container_learning {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .item_explore {
-    margin: 10px;
-   
+  margin: 10px;
 }
 
-.img-fun { 
-    max-width: 100%;
-    width: 400px;
-    height: 400px;
-
+.img-fun {
+  max-width: 100%;
+  width: 400px;
+  height: 400px;
 }
 .item4 {
-    margin: 20px;
+  margin: 20px;
+}
 
+.icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.face,
+.twitter,
+.insta {
+  font-size: 70px;
+  color: white;
 }
 
 .itemicon {
-    display: inline-block;
-    align-items: center;
-    justify-content: center;
-    margin: 30px;
-    flex-direction: row;
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  margin: 30px;
+  flex-direction: row;
 }
 
 .container {
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    justify-content: center;
-
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .item {
-    margin: 30px;
-    
+  margin: 30px;
 }
 
-
-
 .textblack {
-    color: black;
+  color: black;
 }
 
 .containercos {
-    display: flex;
-    flex-direction: column;
-   
+  display: flex;
+  flex-direction: column;
 }
 
 .itemcos {
-    margin: 5px;
-    flex: 1;
+  margin: 5px;
+  flex: 1;
 }
 
 .containerlevel {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-
 .item8 {
-    margin: 20px;
+  margin: 20px;
 }
 
 .container9 {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
 }
 
 .img-visit {
-    flex-direction: row;
-    flex-wrap: wrap;
-    margin: 15px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 15px;
 }
 
-
 header {
-    background-color: white ;
+  background-color: white;
 }
 
 footer {
-    background-color: #f23d7f;
+  background-color: #006666;
 }
 
 nav {
-    margin-left: 60px;
+  margin-left: 60px;
 }
 
 nav li {
-    display: inline-block;
-    margin: 20px;
+  display: inline-block;
+  margin: 20px;
 }
 
 nav ul {
-    padding: 0px;
+  padding: 0px;
 }
 
 .current {
-    color: #8c0335
+  color: #8c0335;
 }
 
 img {
-    width: 100%;
-
+  width: 100%;
 }
 
 .img-header img {
-    height: 500px;
-
+  height: 400px;
+  width: 100%;
 }
-
 
 .img-front img {
-    height: 200px;
-    max-width: 100%;
-  }
-
- 
-
-  .img-icons img {
-      width: 50px;
-      height: 50px;
-  }
-
-  .img-logobottom img {
-      max-width: 300px;
-      margin-top: 20px;
-  }
-
-  .img-front4 img {
-      display: flex;
-      flex-direction: column;
-      width: 400px;
-      height: 300px;
-      object-fit: cover;
-      max-width: 100%;
-  }
-
-   a {  
-     color:black;
-     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-     font-size: large;
- }
-
-
-  label::after {
-    content: "";
-    display: block;
-  }
-
-
-  .img-school img {
-      width: 300px;
-      height: 300px;
-  }
-
-  .img-visit img {
-    display:inline-block;
-    width: 300px;
-    height: 300px;
-
+  height: 200px;
+  max-width: 100%;
 }
 
-
-  .rocket {
-    width: 800px;
-    height: 300px;
-    max-width: 100%;
-
-  }
- 
-
-  .math {
-      width: 800px;
-      height: 300px;
-      max-width: 100%;
-  }
-
-  @media (min-width: 600px) and (max-width: 1200px) {
+.img-logobottom img {
+  max-width: 300px;
+  margin-top: 20px;
 }
 
-  @media only screen and (min-with: 600px) {
-     
+.img-front4 img {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+  max-width: 100%;
+}
+
+a {
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: large;
+}
+
+label::after {
+  content: "";
+  display: block;
+}
+
+.img-school img {
+  width: 300px;
+  height: 300px;
+}
+
+.img-visit img {
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+}
+
+.rocket {
+  width: 800px;
+  height: 300px;
+  max-width: 100%;
+}
+
+.math {
+  width: 800px;
+  height: 300px;
+  max-width: 100%;
+}
+
+@media (min-width: 600px) and (max-width: 1200px) {
+}
+
+@media only screen and (min-with: 600px) {
+}
+
+@media (max-width: 480px) {
+  .p {
+    font-size: 16px;
   }
 
-  @media (max-width: 480px) {
-      .p {
-          font-size: 16px;
-      }
-
-      main {
-          background-color: black;
-
-      }
-
-      .img-front1, .container_welcome {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          margin: 0px;
-          align-items: center;
-      }
-
-      .container_experience {
-          font-size: 16px;
-          text-align: left;
-          
-          
-        
-      }
-
-
-
-  
-
-
-
-
+  main {
+    background-color: black;
   }
 
+  .container_welcome {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px;
+    align-items: center;
+  }
 
+  .img-front1 {
+    display: flex;
+    flex-direction: column;
+    height: 900px;
+  }
 
+  .img-front1 img {
+    height: 300px;
+    object-fit: cover;
+    margin-bottom: 30px;
+  }
 
+  .container_experience {
+    font-size: 16px;
+    text-align: left;
+  }
 
-
-      
-
-
-
+  .float img {
+    margin-right: 20px;
+  }
+}

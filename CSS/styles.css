@@ -51,6 +51,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-around;
+  padding: -15px;
 }
 
 .container_follow {
@@ -147,7 +148,8 @@ header {
 
 .face,
 .twitter,
-.insta {
+.insta,
+.snap {
   font-size: 60px;
   color: white;
   margin: 30px;
@@ -199,10 +201,6 @@ header {
   flex-direction: row;
   flex-wrap: wrap;
   margin: 15px;
-}
-
-header {
-  background-color: white;
 }
 
 footer {

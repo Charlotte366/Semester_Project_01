@@ -13,7 +13,11 @@ h5 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: white;
   max-width: 600px;
-  margin: 0 auto;
+  margin: 0;
+}
+
+h2 {
+  font-size: xx-large;
 }
 
 main {
@@ -50,8 +54,10 @@ header {
 }
 
 .container_follow {
+  display: flex;
   align-items: center;
-  margin-top: 20px;
+  justify-content: space-around;
+  margin-top: 10px;
   height: 250px;
   margin-bottom: 15px;
 }
@@ -75,10 +81,7 @@ header {
 
 .img-front1 {
   display: flex;
-  justify-items: center;
-  margin-left: 30px;
 
-  margin-bottom: 16px;
   width: 300px;
   height: 350px;
   padding-top: 50px;
@@ -88,16 +91,18 @@ header {
 
 .img-front1 img {
   object-fit: cover;
+  margin: 10px;
 }
 
 .container_red {
   margin-top: 20px;
-  height: 900px;
+  height: 800px;
 }
 
 .welcome_text {
+  padding-top: 15px;
+  float: right;
   padding-right: 80px;
-  text-align: center;
 }
 
 .float {
@@ -136,23 +141,16 @@ header {
 
 .icons {
   display: flex;
+  align-items: center;
   flex-direction: row;
-  justify-content: center;
 }
 
 .face,
 .twitter,
 .insta {
-  font-size: 70px;
+  font-size: 60px;
   color: white;
-}
-
-.itemicon {
-  display: inline-block;
-  align-items: center;
-  justify-content: center;
   margin: 30px;
-  flex-direction: row;
 }
 
 .container {
@@ -309,11 +307,11 @@ label::after {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin: 0px;
     align-items: center;
   }
 
   .img-front1 {
+    max-width: 100%;
     display: flex;
     flex-direction: column;
     height: 900px;
@@ -322,15 +320,10 @@ label::after {
   .img-front1 img {
     height: 300px;
     object-fit: cover;
-    margin-bottom: 30px;
   }
 
   .container_experience {
     font-size: 16px;
     text-align: left;
-  }
-
-  .float img {
-    margin-right: 20px;
   }
 }

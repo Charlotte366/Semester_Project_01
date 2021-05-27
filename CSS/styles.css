@@ -221,7 +221,8 @@ footer {
 .containerex,
 .itemcos,
 .container_about,
-.this {
+.this,
+.item_explorer {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -301,7 +302,6 @@ label::after {
 }
 
 .text4,
-.item_explorer,
 .item4 {
   padding-top: 15px;
   float: right;

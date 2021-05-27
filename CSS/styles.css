@@ -76,7 +76,7 @@ header {
 .container_red,
 .container_opening,
 .container_follow {
-  background-color: #003333;
+  background-color: #006666;
 }
 
 .container_explore {
@@ -226,7 +226,7 @@ header {
 }
 
 footer {
-  background-color: #006666;
+  background-color: #003333;
 }
 
 nav {

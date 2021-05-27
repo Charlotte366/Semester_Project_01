@@ -337,7 +337,8 @@ label::after {
 
   .trythis,
   .container_red,
-  .container_opening .container_follow {
+  .container_opening .container_follow,
+  .container_learning2 {
     display: flex;
     flex-direction: column;
     justify-content: center;

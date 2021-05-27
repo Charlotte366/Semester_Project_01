@@ -339,7 +339,6 @@ label::after {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: auto;
   }
 
   .img-front1,

@@ -348,8 +348,7 @@ label::after {
 
   .img-front1,
   .item_follow,
-  .item,
-  .img4 {
+  .item {
     max-width: 100%;
     display: flex;
     flex-direction: column;
@@ -360,7 +359,8 @@ label::after {
     flex-wrap: wrap;
   }
 
-  .img-front1 img {
+  .img-front1 img,
+  .img4 {
     max-width: 100%;
     height: 300px;
     object-fit: cover;

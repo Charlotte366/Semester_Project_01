@@ -348,7 +348,8 @@ label::after {
 
   .img-front1,
   .item_follow,
-  .item {
+  .item,
+  .img4 {
     max-width: 100%;
     display: flex;
     flex-direction: column;

@@ -361,6 +361,10 @@ label::after {
     object-fit: cover;
   }
 
+  .float {
+    margin-right: 5px;
+  }
+
   .container_experience {
     font-size: 16px;
     text-align: left;

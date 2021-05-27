@@ -328,7 +328,7 @@ label::after {
   max-width: 100%;
 }
 
-@media (min-width: 600px) and (max-width: 1200px) {
+@media (max-width: 480px) {
   main {
     background-color: black;
   }

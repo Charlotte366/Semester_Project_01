@@ -361,7 +361,8 @@ label::after {
   }
 
   .float {
-    margin-right: 0px;
+    max-width: 100%;
+    height: 400px;
   }
 
   .container_experience {

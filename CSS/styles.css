@@ -331,6 +331,10 @@ label::after {
     background-color: black;
   }
 
+  .p {
+    font-size: 16px;
+  }
+
   .trythis,
   .container_red,
   .container_opening .container_follow {

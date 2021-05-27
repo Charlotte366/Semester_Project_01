@@ -89,7 +89,6 @@ header {
 }
 
 .welcome_text,
-.item4,
 .item_explorer {
   padding-top: 15px;
   float: right;
@@ -222,7 +221,8 @@ footer {
 .itemcos,
 .container_about,
 .this,
-.item_explorer {
+.item_explorer,
+.item4 {
   display: flex;
   flex-direction: column;
   align-items: center;

@@ -193,7 +193,8 @@ header {
   flex-direction: column;
 }
 
-.itemcos {
+.itemcos,
+.this {
   margin: 5px;
   flex: 1;
 }
@@ -202,7 +203,8 @@ header {
 .container_text,
 .containerex,
 .itemcos,
-.container_about {
+.container_about,
+.this {
   display: flex;
   flex-direction: column;
   align-items: center;

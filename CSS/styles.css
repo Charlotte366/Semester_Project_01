@@ -43,10 +43,6 @@ a:hover {
   color: blue;
 }
 
-.text {
-  color: black;
-}
-
 header {
   display: flex;
   align-items: center;
@@ -54,33 +50,14 @@ header {
   padding: -15px;
 }
 
-.container_follow {
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  margin-top: 10px;
-  height: 250px;
+.img-header img {
+  height: 400px;
+  width: 100%;
 }
 
-.container_welcome,
-.containerlevel,
-.container_experience,
-.container_text,
-.container_ant,
-.container_learning,
-.container_learning2,
-.containercos,
-.container9,
-.container_about,
-.container_explore,
-.container_red,
-.container_opening,
-.container_follow {
-  background-color: #006666;
-}
-
-.container_explore {
-  margin-top: 10px;
+.img-front img {
+  height: 200px;
+  max-width: 100%;
 }
 
 .trythis {
@@ -92,9 +69,6 @@ header {
   height: 600px;
 }
 
-.container_ant {
-  margin-top: 10px;
-}
 .img-front1 {
   flex-direction: row;
   flex-wrap: wrap;
@@ -138,6 +112,67 @@ header {
   margin-top: 10px;
 }
 
+.container_follow {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 10px;
+  height: 250px;
+}
+
+footer {
+  background-color: #003333;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+
+.face,
+.twitter,
+.insta,
+.snap {
+  font-size: 32px;
+  color: white;
+  margin: 30px;
+}
+
+.img-logobottom img {
+  max-width: 300px;
+  margin-top: 10px;
+}
+
+.item {
+  margin: 30px;
+}
+
+.container_welcome,
+.containerlevel,
+.container_experience,
+.container_text,
+.container_ant,
+.container_learning,
+.container_learning2,
+.containercos,
+.container9,
+.container_about,
+.container_explore,
+.container_red,
+.container_opening,
+.container_follow {
+  background-color: #006666;
+}
+
+.container_explore {
+  margin-top: 10px;
+}
+
+.container_ant {
+  margin-top: 10px;
+}
+
 .container_learning {
   display: flex;
   flex-direction: column;
@@ -158,30 +193,11 @@ header {
   margin: 20px;
 }
 
-.icons {
-  display: flex;
-  align-items: center;
-  flex-direction: row;
-}
-
-.face,
-.twitter,
-.insta,
-.snap {
-  font-size: 32px;
-  color: white;
-  margin: 30px;
-}
-
 .container {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
   justify-content: center;
-}
-
-.item {
-  margin: 30px;
 }
 
 .textblack {
@@ -228,10 +244,6 @@ header {
   margin: 15px;
 }
 
-footer {
-  background-color: #003333;
-}
-
 nav {
   margin-left: 60px;
 }
@@ -251,21 +263,6 @@ nav ul {
 
 img {
   width: 100%;
-}
-
-.img-header img {
-  height: 400px;
-  width: 100%;
-}
-
-.img-front img {
-  height: 200px;
-  max-width: 100%;
-}
-
-.img-logobottom img {
-  max-width: 300px;
-  margin-top: 10px;
 }
 
 .img-front4 img {

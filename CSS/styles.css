@@ -300,7 +300,8 @@ label::after {
   padding-bottom: 15px;
 }
 
-.text4 {
+.text4,
+.item_explore. .item4 {
   padding-top: 15px;
   float: right;
   margin-right: 60px;

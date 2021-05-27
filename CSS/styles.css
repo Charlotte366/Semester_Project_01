@@ -90,7 +90,7 @@ header {
 
 .welcome_text,
 .item4,
-.item_explore {
+.item_explorer {
   padding-top: 15px;
   float: right;
   padding: 30px;
@@ -180,7 +180,7 @@ footer {
   margin-bottom: 10px;
 }
 
-.item_explore {
+.item_explorer {
   margin: 10px;
 }
 
@@ -301,7 +301,7 @@ label::after {
 }
 
 .text4,
-.item_explore,
+.item_explorer,
 .item4 {
   padding-top: 15px;
   float: right;
@@ -328,7 +328,7 @@ label::after {
   max-width: 100%;
 }
 
-@media (max-width: 480px) {
+@media (min-width: 600px) and (max-width: 1200px) {
   main {
     background-color: black;
   }
@@ -340,8 +340,7 @@ label::after {
   .trythis,
   .container_red,
   .container_opening .container_follow,
-  .container_learning2,
-  .container_ex {
+  .container_learning2 {
     display: flex;
     flex-direction: column;
     justify-content: center;

@@ -331,7 +331,9 @@ label::after {
     background-color: black;
   }
 
-  .trythis {
+  .trythis,
+  .container_red,
+  .container_opening .container_follow {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -339,13 +341,22 @@ label::after {
     height: auto;
   }
 
-  .img-front1 {
+  .img-front1,
+  .float,
+  .item_follow,
+  .item {
     max-width: 100%;
     display: flex;
     flex-direction: column;
   }
 
+  .icons {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
   .img-front1 img {
+    max-width: 100%;
     height: 300px;
     object-fit: cover;
   }

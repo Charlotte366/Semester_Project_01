@@ -339,7 +339,8 @@ label::after {
   .trythis,
   .container_red,
   .container_opening .container_follow,
-  .container_learning2 {
+  .container_learning2,
+  .container_experience {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -371,11 +372,6 @@ label::after {
     max-width: 100%;
     height: 400px;
     margin-left: -10px;
-  }
-
-  .container_experience {
-    font-size: 16px;
-    text-align: left;
   }
 }
 

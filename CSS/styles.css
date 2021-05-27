@@ -194,7 +194,8 @@ header {
 }
 
 .itemcos,
-.this {
+.this,
+.containerex {
   margin: 5px;
   flex: 1;
 }

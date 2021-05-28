@@ -331,6 +331,14 @@ label::after {
     font-size: 16px;
   }
 
+  .container_welcome,
+  .trythis,
+  .container_red,
+  .container_opening,
+  .container_follow {
+    max-width: 100%;
+  }
+
   .trythis,
   .container_red,
   .container_follow,

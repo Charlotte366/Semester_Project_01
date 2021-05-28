@@ -323,7 +323,10 @@ label::after {
 }
 
 @media (max-width: 480px) {
-  main {
+  header,
+  main,
+  footer {
+    width: 100%;
     background-color: black;
   }
 

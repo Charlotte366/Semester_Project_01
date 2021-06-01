@@ -170,7 +170,8 @@ footer {
   margin: 10px;
 }
 
-.img-fun {
+.img-fun,
+.img-school {
   max-width: 100%;
   width: 400px;
   height: 400px;

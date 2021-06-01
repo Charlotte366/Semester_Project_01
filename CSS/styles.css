@@ -144,7 +144,6 @@ footer {
 .containerlevel,
 .container_experience,
 .container_text,
-.container_ant,
 .container_learning,
 .container_learning2,
 .containercos,
@@ -158,10 +157,6 @@ footer {
 }
 
 .container_explore {
-  margin-top: 10px;
-}
-
-.container_ant {
   margin-top: 10px;
 }
 

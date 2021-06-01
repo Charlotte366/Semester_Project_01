@@ -145,7 +145,6 @@ footer {
 .container_experience,
 .container_text,
 .container_learning,
-.container_learning2,
 .containercos,
 .container9,
 .container_about,
@@ -327,7 +326,7 @@ label::after {
   .trythis,
   .container_red,
   .container_follow,
-  .container_learning2 .container_learning {
+  .container_learning {
     display: flex;
     flex-direction: column;
     justify-content: center;

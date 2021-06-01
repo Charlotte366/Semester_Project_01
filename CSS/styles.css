@@ -327,7 +327,7 @@ label::after {
     align-items: center;
   }
 
-  .item_explorer {
+  .container_explore {
     border: 7px solid white;
   }
 

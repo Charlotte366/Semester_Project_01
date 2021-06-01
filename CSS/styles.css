@@ -302,10 +302,6 @@ label::after {
 }
 
 @media (max-width: 480px) {
-  main {
-    background-color: black;
-  }
-
   .p {
     font-size: 16px;
   }

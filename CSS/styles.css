@@ -26,7 +26,7 @@ main {
 
 nav a {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  color: black;
+
   font-size: larger;
 }
 
@@ -181,9 +181,6 @@ footer {
   width: 400px;
   height: 400px;
 }
-.item4 {
-  margin: 20px;
-}
 
 .container {
   display: flex;
@@ -215,7 +212,6 @@ footer {
 .container_about,
 .this,
 .item_explorer,
-.item4,
 .container_opening {
   display: flex;
   flex-direction: column;
@@ -295,8 +291,7 @@ label::after {
   padding-bottom: 15px;
 }
 
-.text4,
-.item4 {
+.text4 {
   padding-top: 15px;
   float: right;
   margin-right: 60px;
@@ -310,12 +305,7 @@ label::after {
   height: 300px;
 }
 
-.rocket {
-  width: 800px;
-  height: 300px;
-  max-width: 100%;
-}
-
+.rocket,
 .math {
   width: 800px;
   height: 300px;
@@ -342,7 +332,7 @@ label::after {
   .trythis,
   .container_red,
   .container_follow,
-  .container_learning2 {
+  .container_learning2 .container_learning {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -354,6 +344,7 @@ label::after {
   .item {
     max-width: 100%;
     display: flex;
+    flex-direction: column;
   }
 
   .icons {
@@ -375,9 +366,9 @@ label::after {
   }
 }
 
-@media only screen and (min-with: 600px) {
+@media (min-with: 600px) {
   main {
-    background-color: blue;
+    background-color: yellow;
   }
 }
 

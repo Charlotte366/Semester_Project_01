@@ -327,10 +327,6 @@ label::after {
     align-items: center;
   }
 
-  .item_explorer {
-    border: 7px solid white;
-  }
-
   .img-front1,
   .item_follow,
   .item {

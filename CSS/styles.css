@@ -271,7 +271,8 @@ label::after {
 }
 
 .img-school,
-.img-fun {
+.img-fun,
+.img4 {
   width: 300px;
   height: 300px;
   margin-left: 30px;

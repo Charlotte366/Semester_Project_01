@@ -269,7 +269,7 @@ label::after {
 .img4 {
   width: 300px;
   height: 300px;
-  margin-left: 30px;
+  margin-left: 50px;
   padding-top: 45px;
 }
 
@@ -335,6 +335,10 @@ label::after {
   .icons {
     display: flex;
     flex-wrap: wrap;
+  }
+
+  .img-fun {
+    margin: auto;
   }
 
   .img-front1 img,

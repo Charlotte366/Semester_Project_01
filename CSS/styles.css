@@ -324,6 +324,10 @@ label::after {
     align-items: center;
   }
 
+  .containerex {
+    padding: 15px;
+  }
+
   .img-front1,
   .item_follow,
   .item {

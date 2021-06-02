@@ -167,14 +167,7 @@ footer {
 }
 
 .item_explorer {
-  margin: 10px;
-}
-
-.img-fun,
-.img-school {
-  max-width: 100%;
-  width: 400px;
-  height: 400px;
+  margin: 20px;
 }
 
 .container {

@@ -324,7 +324,9 @@ label::after {
     align-items: center;
   }
 
-  .containerex {
+  .containerex,
+  .container_text,
+  .itemcos {
     padding: 15px;
   }
 

@@ -326,7 +326,8 @@ label::after {
 
   .containerex,
   .container_text,
-  .itemcos {
+  .itemcos,
+  .this {
     padding: 15px;
   }
 

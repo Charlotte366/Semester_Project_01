@@ -14,6 +14,7 @@ h5 {
   color: white;
   max-width: 600px;
   margin: 0;
+  letter-spacing: 1px;
 }
 
 h2 {
@@ -82,34 +83,38 @@ header {
 }
 
 .container_red {
-  margin-top: 10px;
+  margin-top: 5px;
   padding: 20px;
 }
 
-.welcome_text,
 .item_explorer {
   padding-top: 15px;
   float: right;
   padding: 30px;
 }
 
+.welcome_text {
+  float: right;
+  padding-top: 15px;
+}
+
 .float {
   width: 400px;
   height: 450px;
   margin-left: 30px;
-  padding-top: 45px;
+  padding-top: 15px;
 }
 
 .container_opening {
-  margin-top: 10px;
-  text-align: center;
+  padding: 20px;
+  margin-top: 5px;
 }
 
 .container_follow {
   display: flex;
   align-items: center;
   justify-content: space-around;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 
 footer {
@@ -133,7 +138,7 @@ footer {
 
 .img-logobottom img {
   max-width: 300px;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 
 .item {
@@ -156,7 +161,7 @@ footer {
 }
 
 .container_explore {
-  margin-top: 10px;
+  margin-top: 5px;
 }
 
 .container_learning {
@@ -214,7 +219,7 @@ footer {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 
 .img-visit {
@@ -340,6 +345,7 @@ label::after {
 
   .img-fun {
     margin: auto;
+    float: left;
   }
 
   .img-front1 img,

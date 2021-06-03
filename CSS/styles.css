@@ -232,8 +232,7 @@ footer {
 .itemcos,
 .container_about,
 .this,
-.item_explorer,
-.container_opening {
+.item_explorer {
   display: flex;
   flex-direction: column;
   align-items: center;

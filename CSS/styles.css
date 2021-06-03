@@ -17,6 +17,34 @@ h5 {
   letter-spacing: 1px;
 }
 
+nav,
+#hamburger-menu {
+  display: none;
+}
+
+#hamburger-menu:checked ~ nav {
+  display: block;
+}
+
+nav ul {
+  padding: 0px;
+}
+
+nav li {
+  display: block;
+}
+
+nav a {
+  text-decoration: none;
+  padding: 10px;
+  display: block;
+}
+
+.square {
+  width: 30px;
+  height: 30px;
+}
+
 h2 {
   font-size: xx-large;
 }
@@ -368,5 +396,29 @@ label::after {
   }
 }
 
-@media (min-width: 600px) and (max-width: 1200px) {
+@media (min-width: 600px) {
+  nav {
+    display: inline-block;
+  }
+
+  .hamburger-label {
+    display: none;
+  }
+
+  ul {
+    display: flex;
+    justify-content: center;
+  }
+
+  li {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  nav a {
+    font-size: x-large;
+    color: black;
+    font-weight: bolder;
+  }
 }

@@ -134,14 +134,10 @@ header {
 }
 
 .container_opening {
-  padding: 20px;
-  margin-top: 5px;
-}
-
-.container_follow {
   display: flex;
-  align-items: center;
   justify-content: space-around;
+  align-items: center;
+  padding: 20px;
   margin-top: 5px;
 }
 
@@ -151,7 +147,6 @@ footer {
 
 .icons {
   display: flex;
-  align-items: center;
   flex-direction: row;
 }
 
@@ -183,8 +178,7 @@ footer {
 .container_about,
 .container_explore,
 .container_red,
-.container_opening,
-.container_follow {
+.container_opening {
   background-color: #006666;
 }
 
@@ -334,15 +328,12 @@ label::after {
   .container_welcome,
   .trythis,
   .container_red,
-  .container_opening,
-  .container_follow {
+  .container_opening {
     max-width: 100%;
   }
 
   .trythis,
-  .container_red,
-  .container_follow,
-  .container_learning,
+  .container_red .container_learning,
   .container_explore {
     display: flex;
     flex-direction: column;
@@ -358,7 +349,6 @@ label::after {
   }
 
   .img-front1,
-  .item_follow,
   .item {
     max-width: 100%;
     display: flex;

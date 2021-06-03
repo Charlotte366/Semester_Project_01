@@ -111,15 +111,20 @@ header {
 }
 
 .container_red,
-.container_explore,
 .comtainer9 {
   margin: 10px;
   padding: 20px;
 }
 
 .item_explorer {
-  padding-top: 15px;
-  float: right;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  border: 7px solid lightgray;
+  max-width: 100%;
+  margin: 5px;
+  background-color: #006666;
 }
 
 .welcome_text {
@@ -173,21 +178,26 @@ footer {
 .containercos,
 .container9,
 .container_about,
-.container_explore,
 .container_red,
-.container_opening {
+.container_opening,
+.containerlevel {
   background-color: #006666;
-}
-
-.container_explore {
-  margin-top: 5px;
 }
 
 .container_learning {
   display: flex;
-  flex-direction: column;
+  max-width: 100%;
   align-items: center;
-  margin-bottom: 10px;
+  padding: 50px;
+}
+
+img {
+  object-fit: cover;
+}
+
+.container_explore {
+  max-width: 100;
+  margin-top: 5px;
 }
 
 .containerend,
@@ -223,8 +233,7 @@ footer {
 .containerex,
 .itemcos,
 .container_about,
-.this,
-.item_explorer {
+.this {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -260,11 +269,6 @@ nav ul {
   padding: 0px;
 }
 
-img {
-  width: 100%;
-  object-fit: cover;
-}
-
 .img-front4 img {
   display: flex;
   flex-direction: column;
@@ -289,12 +293,9 @@ label::after {
   display: block;
 }
 
-.img-school,
-.img-fun,
 .img4 {
-  width: 300px;
+  max-width: 300px;
   height: 300px;
-  padding-top: 45px;
 }
 
 .text4 {
@@ -334,8 +335,7 @@ label::after {
   }
 
   .trythis,
-  .container_red .container_learning,
-  .container_explore {
+  .container_red {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -358,19 +358,22 @@ label::after {
     flex-direction: column;
   }
 
-  .img-front1 img,
-  .img4 {
+  .img-front1 img {
     max-width: 100%;
     height: 300px;
     object-fit: cover;
   }
 
-  .float,
-  .img-fun,
-  .img-school {
+  .float {
     max-width: 100%;
     height: 350px;
   }
+}
+
+.img-school {
+  max-width: 100%;
+  height: 300px;
+  justify-content: center;
 }
 
 @media (min-width: 600px) {
@@ -397,5 +400,22 @@ label::after {
     font-size: x-large;
     color: black;
     font-weight: bolder;
+  }
+
+  .item_explorer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    border: 2px solid black;
+    color: black;
+    max-width: 100%;
+    margin: 5px;
+    background-color: #006666;
+  }
+
+  .container_explore {
+    display: flex;
+    flex-direction: row;
   }
 }

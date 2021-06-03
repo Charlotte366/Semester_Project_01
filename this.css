@@ -90,8 +90,8 @@ header {
 .item_explorer {
   display: flex;
   flex-wrap: wrap;
+  flex-direction: column;
   align-items: center;
-  flex-direction: row;
   border: 7px solid green;
   max-width: 100%;
   margin: 5px;
@@ -128,5 +128,15 @@ header {
     font-size: x-large;
     color: black;
     font-weight: bolder;
+  }
+
+  .item_explorer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    border: 7px solid green;
+    max-width: 100%;
+    margin: 5px;
   }
 }

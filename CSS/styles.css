@@ -94,8 +94,8 @@ header {
 }
 
 .welcome_text {
-  float: right;
   padding-top: 15px;
+  float: right;
 }
 
 .float {

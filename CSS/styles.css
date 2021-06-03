@@ -111,7 +111,7 @@ header {
 }
 
 .container_red {
-  margin-top: 5px;
+  margin: 10px;
   padding: 20px;
 }
 
@@ -146,7 +146,6 @@ footer {
 
 .icons {
   display: flex;
-  flex-direction: row;
 }
 
 .face,
@@ -324,6 +323,10 @@ label::after {
     font-size: 16px;
   }
 
+  img {
+    max-width: 100%;
+  }
+
   .container_welcome,
   .trythis,
   .container_red,
@@ -333,7 +336,7 @@ label::after {
 
   .trythis,
   .container_red .container_learning,
-  .container_opening .container_explore {
+  .container_explore {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -349,22 +352,16 @@ label::after {
 
   .img-front1,
   .item,
-  .hours,
-  .itemfollow {
+  .hours {
     max-width: 100%;
     display: flex;
     flex-direction: column;
   }
 
   .icons {
+    max-width: 100%;
     display: flex;
     flex-wrap: wrap;
-    flex-direction: column;
-  }
-
-  .img-fun {
-    margin: auto;
-    float: left;
   }
 
   .img-front1 img,
@@ -374,7 +371,9 @@ label::after {
     object-fit: cover;
   }
 
-  .float {
+  .float,
+  .img-fun,
+  .img-school {
     max-width: 100%;
     height: 400px;
     margin-left: -10px;

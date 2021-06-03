@@ -191,10 +191,6 @@ footer {
   padding: 50px;
 }
 
-img {
-  object-fit: cover;
-}
-
 .container_explore {
   max-width: 100;
   margin-top: 5px;

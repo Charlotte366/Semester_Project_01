@@ -105,12 +105,14 @@ header {
 
 .img-front1 img {
   display: inline-block;
-  width: 300px;
-  height: 350px;
+  width: auto;
+  height: 400px;
   object-fit: cover;
 }
 
-.container_red {
+.container_red,
+.container_explore,
+.comtainer9 {
   margin: 10px;
   padding: 20px;
 }
@@ -118,7 +120,6 @@ header {
 .item_explorer {
   padding-top: 15px;
   float: right;
-  padding: 30px;
 }
 
 .welcome_text {
@@ -127,17 +128,9 @@ header {
 }
 
 .float {
-  width: 400px;
+  width: auto;
   height: 450px;
-  margin-left: 30px;
   padding-top: 15px;
-}
-
-.container_opening {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  margin-top: 5px;
 }
 
 footer {
@@ -154,7 +147,7 @@ footer {
 .snap {
   font-size: 32px;
   color: white;
-  margin: 30px;
+  padding: 15px;
 }
 
 .img-logobottom img {
@@ -162,8 +155,15 @@ footer {
   margin-top: 5px;
 }
 
-.item {
-  margin: 30px;
+.hours {
+  padding: 20px;
+}
+
+.itemend,
+.itemfollow,
+.hour,
+.icons {
+  margin: 40px;
 }
 
 .container_welcome,
@@ -191,15 +191,16 @@ footer {
   margin-bottom: 10px;
 }
 
-.item_explorer {
-  margin: 20px;
-}
-
-.container {
+.containerend,
+.container_opening {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
   justify-content: center;
+}
+
+.container_opening {
+  margin-top: 5px;
 }
 
 .textblack {
@@ -262,6 +263,7 @@ nav ul {
 
 img {
   width: 100%;
+  object-fit: cover;
 }
 
 .img-front4 img {
@@ -294,7 +296,6 @@ label::after {
   width: 300px;
   height: 300px;
   padding-top: 45px;
-  margin-left: 60px;
 }
 
 .text4 {
@@ -329,8 +330,7 @@ label::after {
 
   .container_welcome,
   .trythis,
-  .container_red,
-  .container_opening {
+  .container_red {
     max-width: 100%;
   }
 
@@ -351,23 +351,18 @@ label::after {
   }
 
   .img-front1,
-  .item,
-  .hours {
-    max-width: 100%;
+  .itemend,
+  .hours,
+  .itemfollow {
+    width: auto;
     display: flex;
     flex-direction: column;
-  }
-
-  .icons {
-    max-width: 100%;
-    display: flex;
-    flex-wrap: wrap;
   }
 
   .img-front1 img,
   .img4 {
     max-width: 100%;
-    height: 200px;
+    height: 300px;
     object-fit: cover;
   }
 
@@ -375,8 +370,7 @@ label::after {
   .img-fun,
   .img-school {
     max-width: 100%;
-    height: 400px;
-    margin-left: -10px;
+    height: 350px;
   }
 }
 

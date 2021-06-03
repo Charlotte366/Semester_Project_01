@@ -86,7 +86,8 @@ header {
 
 .img-front img {
   height: 200px;
-  max-width: 100%;
+  width: 100%;
+  object-fit: cover;
 }
 
 .trythis {
@@ -139,7 +140,7 @@ header {
 }
 
 footer {
-  background-color: #003333;
+  background-color: black;
 }
 
 .icons {
@@ -181,7 +182,7 @@ footer {
 .container_red,
 .container_opening,
 .containerlevel {
-  background-color: #006666;
+  background-color: #003333;
 }
 
 .container_learning {

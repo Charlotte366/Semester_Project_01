@@ -394,6 +394,7 @@ label::after {
     font-size: x-large;
     color: black;
     font-weight: bolder;
+    padding: 15px;
   }
 
   .item_explorer {

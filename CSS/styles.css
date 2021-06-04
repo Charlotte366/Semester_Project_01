@@ -27,7 +27,7 @@ nav,
 }
 
 nav ul {
-  padding: 0px;
+  padding: 10px;
 }
 
 nav li {
@@ -391,10 +391,9 @@ label::after {
   }
 
   nav a {
-    font-size: x-large;
+    font-size: large;
     color: black;
     font-weight: bolder;
-    padding: 15px;
   }
 
   .item_explorer {

@@ -176,7 +176,6 @@ footer {
 .container_text,
 .container_learning,
 .containercos,
-.container9,
 .container_about,
 .container_red,
 .container_opening,
@@ -241,6 +240,7 @@ footer {
   flex-wrap: wrap;
   justify-content: center;
   margin-top: 5px;
+  background-color: #003333;
 }
 
 .img-visit {
@@ -400,11 +400,10 @@ label::after {
     flex-wrap: wrap;
     flex-direction: row;
     align-items: center;
-    border: 2px solid black;
-    color: black;
     max-width: 100%;
     margin: 5px;
-    background-color: #006666;
+    background-color: #003333;
+    padding: 5px;
   }
 
   .container_explore {
